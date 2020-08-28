@@ -1,3 +1,9 @@
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+c *** Example of the Arnoldi iteration
+c *** Copyright (c) 2020, Ioannis Nompelis
+c *** See "LICENSE" for terms of use.
+c *** Ioannis Nompelis <nompelis@nobelware.com>
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
        Program main
        Implicit none
        Real*8,allocatable,dimension(:,:) :: amat
